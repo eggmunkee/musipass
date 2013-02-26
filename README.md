@@ -24,7 +24,7 @@ Backspace - delete 1 character from sequence
 
 Page Up/Page Down - cycle through keysets
 
-Tab - cycle through modes (Passmode - enter/update passwords in db, Musimode - compose melodies/passwords, Testmode - test entries in db)
+Tab - cycle through modes (Musimode - compose melodies/passwords, Passmode - enter/update passwords in db, Testmode - test entries in db)
 
 Any other key - if mapped in the current keyset, it will play the sound, draw the color block and the character, adding on to the password sequence
 
