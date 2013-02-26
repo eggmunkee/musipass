@@ -28,3 +28,11 @@ Tab - cycle through modes (Musimode - compose melodies/passwords, Passmode - ent
 
 Any other key - if mapped in the current keyset, it will play the sound, draw the color block and the character, adding on to the password sequence
 
+Example Melody
+==============
+
+Here is an example of a melody made from the in-order alphabet, only by varying capitalization:
+
+AbcdefgHijKLMNopqrstuvWXYZ
+
+Type it into the Musimode (default mode) of Musipass to hear it.
