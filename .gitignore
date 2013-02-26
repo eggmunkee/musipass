@@ -1,5 +1,8 @@
 *.py[cod]
 
+# Musipass db file
+musipass.pkl
+
 # C extensions
 *.so
 
