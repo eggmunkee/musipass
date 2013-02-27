@@ -3,6 +3,13 @@ musipass
 
 A pygame program to compose passwords based on musical notes and intervals.
 
+It depends on pygame and numpy libraries.
+
+Known bugs
+==========
+- The 'square' keyset, meant to produce square wave sounds, instead of sine waves, has an issue that causes crashing.
+- The backspace functionality can sometime cause a crash.
+
 Disclaimer and Security Warning
 ===============================
 This program is not a secure password storage system. Its ability to store passwords is simple--it just pickles the plain-text passwords and mapped key-values entered.
